@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokeApi</string>
+    <string name="pokemon_image">Pokemon</string>
+</resources>
